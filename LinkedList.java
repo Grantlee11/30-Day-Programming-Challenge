@@ -116,6 +116,8 @@ public class LinkedList
                 case 4:
                 {
                     System.out.println("\nGoodbye.");
+                    scanChoice.close();
+                    scanName.close();
                     return;
                 }
                 default:

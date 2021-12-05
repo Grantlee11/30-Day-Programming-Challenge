@@ -7,3 +7,5 @@ Day 1: I created a ReverseALinkedList.java program that reverses a Linked List u
 Day 2: I created a LinkedList.java program that allows the user to add names to the front or back of the Linked List and then display them in the correct order of the list. I created this Linked List without the aid of Java's built in Linked List Methods.
 
 Day 3: I created a BST.java program that allows the user to add integer values to a Binary Search Tree and then display the tree with inorder traversal, preorder traversal, or postorder traversal. 
+
+Day 4: I created a BinarySearch.java program that allows the user to use a binarySearch method on an array and search for the element in the array.

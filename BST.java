@@ -131,6 +131,8 @@ public class BST
                 case 5:
                 {
                     System.out.println("GOODBYE.");
+                    choiceScan.close();
+                    valScan.close();
                     return;
                 }
                 default:
