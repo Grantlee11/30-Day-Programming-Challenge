@@ -9,3 +9,5 @@ Day 2: I created a LinkedList.java program that allows the user to add names to 
 Day 3: I created a BST.java program that allows the user to add integer values to a Binary Search Tree and then display the tree with inorder traversal, preorder traversal, or postorder traversal. 
 
 Day 4: I created a BinarySearch.java program that allows the user to use a binarySearch method on an array and search for the element in the array.
+
+Day 5: I created a BubbleSort.java program that implements a Bubble Sort method and prints out the predetermined array to the screen.
