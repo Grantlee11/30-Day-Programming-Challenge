@@ -11,3 +11,7 @@ Day 3: I created a BST.java program that allows the user to add integer values t
 Day 4: I created a BinarySearch.java program that allows the user to use a binarySearch method on an array and search for the element in the array.
 
 Day 5: I created a BubbleSort.java program that implements a Bubble Sort method and prints out the predetermined array to the screen.
+
+Pause: I took a bit of a break with the holidays and new semester starting, but am now resuming the challenge
+
+Day 6: I created a SLMP.java program that implements the Sorted List Matching programming method. It takes 2 arrays and prints out the commonality between them.
